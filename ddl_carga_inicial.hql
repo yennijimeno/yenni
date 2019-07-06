@@ -1,5 +1,5 @@
 --creacion  de table hive 
---trabajamos en rama alterna
+--trabajamossssssssss en rama alterna
 --yenni
 create table external venas (
 nombre varchar2(100),
